@@ -3,9 +3,9 @@
 
 > Учить в первую очередь, если ты новичок или хочешь усилить фундамент
 
-* Линейный поиск
-* Бинарный поиск
-* Сортировки: Bubble, Insertion, Selection, MergeSort, QuickSort, Counting Sort, Radix Sort
+* Линейный поиск ✔
+* Бинарный поиск ✔
+* Сортировки: Bubble ✔, Insertion, Selection, MergeSort, QuickSort, Counting Sort, Radix Sort
 * Стек и очередь
 * Двусторонняя очередь (deque)
 * Списки: односвязный, двусвязный
